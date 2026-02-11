@@ -1,7 +1,7 @@
 # Product Management REST API (Spring Boot)
 
 
-## 🚀 Features
+##  Features
 
 * Create a new product
 * Get all products
